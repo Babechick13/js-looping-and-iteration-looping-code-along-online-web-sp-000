@@ -1,4 +1,4 @@
-const sinon = require( 'sinon' )
+    QW3ESconst sinon = require( 'sinon' )
 
 describe( 'index.js', () => {
   let spy;
